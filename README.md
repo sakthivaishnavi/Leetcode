@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sakthivaishnavi/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sakthivaishnavi/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
+## String
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
