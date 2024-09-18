@@ -2,7 +2,7 @@ class Solution {
     public String largestNumber(int[] nums) {
 
         ArrayList<String> li= new ArrayList<>();
-        for(int i:nums)
+        for(var i:nums)
         {
             li.add(Integer.toString(i));
         }
