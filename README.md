@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sakthivaishnavi/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sakthivaishnavi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
@@ -35,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sakthivaishnavi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
