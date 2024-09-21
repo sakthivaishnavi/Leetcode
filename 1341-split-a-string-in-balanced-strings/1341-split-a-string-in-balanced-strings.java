@@ -4,18 +4,11 @@ class Solution {
         for(int i=0;i<s.length();i++)
         {
             if(s.charAt(i)=='R')
-            {
-                c++;
-            }
+            c++;
             else
-            {
-                c--;
-            }
+            c--;
             if(c==0)
-            {
-                res++;
-            }
-            
+            res++;          
         }
         return res;
         
