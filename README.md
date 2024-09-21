@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sakthivaishnavi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sakthivaishnavi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
