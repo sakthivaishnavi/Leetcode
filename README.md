@@ -113,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0264-ugly-number-ii) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sakthivaishnavi/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sakthivaishnavi/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
