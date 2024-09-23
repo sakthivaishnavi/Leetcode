@@ -5,7 +5,7 @@ class Solution {
         return "0";
         while(num!=0)
         {
-            int rem = num & (0xF);
+            int rem = num & 15;
             if(rem<=9)
             {
                 s.append((char)(rem+'0'));
