@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/sakthivaishnavi/Leetcode/tree/master/0258-add-digits) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sakthivaishnavi/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sakthivaishnavi/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sakthivaishnavi/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sakthivaishnavi/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
