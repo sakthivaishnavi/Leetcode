@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/sakthivaishnavi/Leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/sakthivaishnavi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sakthivaishnavi/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sakthivaishnavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sakthivaishnavi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sakthivaishnavi/Leetcode/tree/master/0279-perfect-squares) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sakthivaishnavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sakthivaishnavi/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
