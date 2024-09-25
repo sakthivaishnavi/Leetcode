@@ -9,13 +9,11 @@ class Solution {
 
         for(int i=0;i<pattern.length();i++)
         {
-            String wrd= str[i];
-
-            if(indexP[pattern.charAt(i)]!= indexS.getOrDefault(wrd,0))
+            if(indexP[pattern.charAt(i)]!= indexS.getOrDefault(str[i],0))
             return false;
 
             indexP[pattern.charAt(i)]=i+1;
-            indexS.put(wrd,i+1);
+            indexS.put(str[i],i+1);
         }
         return true;        
     }
