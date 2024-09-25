@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sakthivaishnavi/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sakthivaishnavi/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1873-longest-nice-substring](https://github.com/sakthivaishnavi/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sakthivaishnavi/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sakthivaishnavi/Leetcode/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/sakthivaishnavi/Leetcode/tree/master/0258-add-digits) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakthivaishnavi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sakthivaishnavi/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sakthivaishnavi/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/sakthivaishnavi/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sakthivaishnavi/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sakthivaishnavi/Leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
