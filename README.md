@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/sakthivaishnavi/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/sakthivaishnavi/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/sakthivaishnavi/Leetcode/tree/master/0290-word-pattern) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sakthivaishnavi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sakthivaishnavi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sakthivaishnavi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sakthivaishnavi/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sakthivaishnavi/Leetcode/tree/master/0290-word-pattern) |
