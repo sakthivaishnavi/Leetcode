@@ -17,8 +17,8 @@ class Solution {
             j++;
         }
         if(s.size()<3)
-        return arr[s.size()-1];
-        return arr[s.size()-3];
+        return arr[li.size()-1];
+        return arr[li.size()-3];
          
         
     }
