@@ -1,5 +1,5 @@
 class NumArray {
-    private int nums[];
+     int nums[];
     public NumArray(int[] nums) {
         this.nums = nums;        
     }
