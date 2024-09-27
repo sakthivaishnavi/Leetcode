@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/sakthivaishnavi/Leetcode/tree/master/0729-my-calendar-i) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sakthivaishnavi/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/sakthivaishnavi/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakthivaishnavi/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sakthivaishnavi/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/sakthivaishnavi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivaishnavi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sakthivaishnavi/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakthivaishnavi/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivaishnavi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/sakthivaishnavi/Leetcode/tree/master/0409-longest-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakthivaishnavi/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/sakthivaishnavi/Leetcode/tree/master/0729-my-calendar-i) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakthivaishnavi/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
