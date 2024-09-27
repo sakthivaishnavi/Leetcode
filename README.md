@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sakthivaishnavi/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sakthivaishnavi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0696-count-binary-substrings](https://github.com/sakthivaishnavi/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sakthivaishnavi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1873-longest-nice-substring](https://github.com/sakthivaishnavi/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sakthivaishnavi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivaishnavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sakthivaishnavi/Leetcode/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/sakthivaishnavi/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/sakthivaishnavi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivaishnavi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
