@@ -5,7 +5,7 @@ class Solution {
         {
             for(int j=i+1;j<nums.size();j++)
             {
-                if((nums.get(i)+nums.get(j))<target)
+                if(nums.get(i)+nums.get(j)<target)
                 {
                     count++;
                 }
