@@ -1,7 +1,7 @@
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.Deque;
 class MyCircularDeque {
-        public BlockingDeque<Integer> d ;
+        public Deque<Integer> d ;
         public int capacity;
     public MyCircularDeque(int k) {
         this.capacity =k;
