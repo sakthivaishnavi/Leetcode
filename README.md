@@ -280,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/sakthivaishnavi/Leetcode/tree/master/0859-design-circular-deque) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/sakthivaishnavi/Leetcode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
