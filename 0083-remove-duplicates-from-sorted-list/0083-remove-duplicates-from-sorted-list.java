@@ -21,7 +21,7 @@ class Solution {
             {
                 curr.next=curr.next.next; 
             }
-            else if(curr.val!=curr.next.val)
+            else
             {
                 curr=curr.next;
             }
