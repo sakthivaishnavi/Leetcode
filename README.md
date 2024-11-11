@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sakthivaishnavi/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/sakthivaishnavi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sakthivaishnavi/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sakthivaishnavi/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sakthivaishnavi/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/sakthivaishnavi/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sakthivaishnavi/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2755-extra-characters-in-a-string](https://github.com/sakthivaishnavi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sakthivaishnavi/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sakthivaishnavi/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/sakthivaishnavi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sakthivaishnavi/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sakthivaishnavi/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
 | ------- |
