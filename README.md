@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sakthivaishnavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sakthivaishnavi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0472-concatenated-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/sakthivaishnavi/Leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/sakthivaishnavi/Leetcode/tree/master/0859-design-circular-deque) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sakthivaishnavi/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sakthivaishnavi/Leetcode/tree/master/0409-longest-palindrome) |
+| [0472-concatenated-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/sakthivaishnavi/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sakthivaishnavi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sakthivaishnavi/Leetcode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/sakthivaishnavi/Leetcode/tree/master/0392-is-subsequence) |
+| [0472-concatenated-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0472-concatenated-words) |
 | [2755-extra-characters-in-a-string](https://github.com/sakthivaishnavi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/sakthivaishnavi/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0472-concatenated-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0472-concatenated-words) |
 ## Trie
 |  |
 | ------- |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/sakthivaishnavi/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/sakthivaishnavi/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sakthivaishnavi/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0472-concatenated-words) |
 | [2755-extra-characters-in-a-string](https://github.com/sakthivaishnavi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sakthivaishnavi/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
