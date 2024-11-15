@@ -1,17 +1,17 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        int nums1[] = Arrays.stream(nums).filter(n ->  n > 0).toArray();
-        Arrays.sort(nums1);
-        int target = 1;
-        for(int n : nums1)
-        {
-            if(n==target){
-                target++;
-            }
-            else if(n > target){
-                return target;
+        for(int i = 0; i < nums.length; i++){
+            while(nums[i] <= nums.length && nums[i] > 0 && nums[nums[i] - 1] != nums[i]){
+                int temp = nums[nums[i] - 1];
+                nums[nums[i] - 1] = nums[i];
+                nums[i] = temp;
             }
         }
-        return target;        
+        for(int i = 0; i < nums.length; i++){
+            if(nums[i] != i+1){
+                return i+1;
+            }
+        }
+        return nums.length + 1;
     }
 }
