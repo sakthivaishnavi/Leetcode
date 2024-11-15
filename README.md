@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/sakthivaishnavi/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sakthivaishnavi/Leetcode/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/sakthivaishnavi/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/sakthivaishnavi/Leetcode/tree/master/0258-add-digits) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/sakthivaishnavi/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/sakthivaishnavi/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/sakthivaishnavi/Leetcode/tree/master/0242-valid-anagram) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sakthivaishnavi/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/sakthivaishnavi/Leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Memoization
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sakthivaishnavi/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/sakthivaishnavi/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Design
 |  |
