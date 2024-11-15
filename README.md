@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sakthivaishnavi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sakthivaishnavi/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sakthivaishnavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0135-candy](https://github.com/sakthivaishnavi/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sakthivaishnavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0268-missing-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/sakthivaishnavi/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/sakthivaishnavi/Leetcode/tree/master/0409-longest-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
