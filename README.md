@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/sakthivaishnavi/Leetcode/tree/master/0282-expression-add-operators) |
 | [0398-random-pick-index](https://github.com/sakthivaishnavi/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sakthivaishnavi/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0483-smallest-good-base](https://github.com/sakthivaishnavi/Leetcode/tree/master/0483-smallest-good-base) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sakthivaishnavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivaishnavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0483-smallest-good-base](https://github.com/sakthivaishnavi/Leetcode/tree/master/0483-smallest-good-base) |
 | [0729-my-calendar-i](https://github.com/sakthivaishnavi/Leetcode/tree/master/0729-my-calendar-i) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sakthivaishnavi/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sakthivaishnavi/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
