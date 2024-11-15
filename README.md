@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sakthivaishnavi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sakthivaishnavi/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sakthivaishnavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/sakthivaishnavi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/sakthivaishnavi/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sakthivaishnavi/Leetcode/tree/master/0217-contains-duplicate) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sakthivaishnavi/Leetcode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/sakthivaishnavi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0233-number-of-digit-one](https://github.com/sakthivaishnavi/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sakthivaishnavi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/sakthivaishnavi/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/sakthivaishnavi/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sakthivaishnavi/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sakthivaishnavi/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/sakthivaishnavi/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sakthivaishnavi/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/sakthivaishnavi/Leetcode/tree/master/0051-n-queens) |
 | [0282-expression-add-operators](https://github.com/sakthivaishnavi/Leetcode/tree/master/0282-expression-add-operators) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sakthivaishnavi/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
