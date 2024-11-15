@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sakthivaishnavi/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sakthivaishnavi/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/sakthivaishnavi/Leetcode/tree/master/0312-burst-balloons) |
 | [0336-palindrome-pairs](https://github.com/sakthivaishnavi/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivaishnavi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0414-third-maximum-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sakthivaishnavi/Leetcode/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/sakthivaishnavi/Leetcode/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/sakthivaishnavi/Leetcode/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0472-concatenated-words) |
 | [2755-extra-characters-in-a-string](https://github.com/sakthivaishnavi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
