@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sakthivaishnavi/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/sakthivaishnavi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sakthivaishnavi/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Stack
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sakthivaishnavi/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sakthivaishnavi/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/sakthivaishnavi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/sakthivaishnavi/Leetcode/tree/master/0859-design-circular-deque) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakthivaishnavi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sakthivaishnavi/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sakthivaishnavi/Leetcode/tree/master/0053-maximum-subarray) |
 | [1873-longest-nice-substring](https://github.com/sakthivaishnavi/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Sliding Window
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/sakthivaishnavi/Leetcode/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/sakthivaishnavi/Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/sakthivaishnavi/Leetcode/tree/master/1415-students-and-examinations) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sakthivaishnavi/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
