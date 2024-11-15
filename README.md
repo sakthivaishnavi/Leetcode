@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/sakthivaishnavi/Leetcode/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/sakthivaishnavi/Leetcode/tree/master/0282-expression-add-operators) |
 | [0398-random-pick-index](https://github.com/sakthivaishnavi/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sakthivaishnavi/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0539-minimum-time-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sakthivaishnavi/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/sakthivaishnavi/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/sakthivaishnavi/Leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/sakthivaishnavi/Leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sakthivaishnavi/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sakthivaishnavi/Leetcode/tree/master/0392-is-subsequence) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakthivaishnavi/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/sakthivaishnavi/Leetcode/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
