@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sakthivaishnavi/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/sakthivaishnavi/Leetcode/tree/master/0409-longest-palindrome) |
+| [0770-couples-holding-hands](https://github.com/sakthivaishnavi/Leetcode/tree/master/0770-couples-holding-hands) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakthivaishnavi/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Dynamic Programming
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/sakthivaishnavi/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0472-concatenated-words) |
+| [0770-couples-holding-hands](https://github.com/sakthivaishnavi/Leetcode/tree/master/0770-couples-holding-hands) |
 ## Trie
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sakthivaishnavi/Leetcode/tree/master/0279-perfect-squares) |
+| [0770-couples-holding-hands](https://github.com/sakthivaishnavi/Leetcode/tree/master/0770-couples-holding-hands) |
 ## Linked List
 |  |
 | ------- |
@@ -371,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Union Find
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/sakthivaishnavi/Leetcode/tree/master/0770-couples-holding-hands) |
+## Graph
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/sakthivaishnavi/Leetcode/tree/master/0770-couples-holding-hands) |
 <!---LeetCode Topics End-->
