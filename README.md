@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sakthivaishnavi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sakthivaishnavi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sakthivaishnavi/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sakthivaishnavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sakthivaishnavi/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sakthivaishnavi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sakthivaishnavi/Leetcode/tree/master/0066-plus-one) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sakthivaishnavi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/sakthivaishnavi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/sakthivaishnavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sakthivaishnavi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sakthivaishnavi/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sakthivaishnavi/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sakthivaishnavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sakthivaishnavi/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sakthivaishnavi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakthivaishnavi/Leetcode/tree/master/0242-valid-anagram) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/sakthivaishnavi/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sakthivaishnavi/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sakthivaishnavi/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/sakthivaishnavi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sakthivaishnavi/Leetcode/tree/master/0217-contains-duplicate) |
