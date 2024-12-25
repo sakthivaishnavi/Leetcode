@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/sakthivaishnavi/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/sakthivaishnavi/Leetcode/tree/master/0472-concatenated-words) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sakthivaishnavi/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0770-couples-holding-hands](https://github.com/sakthivaishnavi/Leetcode/tree/master/0770-couples-holding-hands) |
 ## Trie
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sakthivaishnavi/Leetcode/tree/master/0279-perfect-squares) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sakthivaishnavi/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0770-couples-holding-hands](https://github.com/sakthivaishnavi/Leetcode/tree/master/0770-couples-holding-hands) |
 ## Linked List
 |  |
@@ -376,10 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sakthivaishnavi/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakthivaishnavi/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sakthivaishnavi/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Union Find
 |  |
 | ------- |
